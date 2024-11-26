@@ -1,0 +1,9 @@
+pip install pyfhel==3.1.0
+pip install plot_keras_history
+pip install keras-tuner
+pip install tensorflow
+pip install numpy
+pip install matplotlib
+pip install scipy
+pip install pandas
+pip install seaborn
